@@ -10,5 +10,8 @@ https://www.youtube.com/watch?v=1PNZ1lkyRik&list=PLUkh9m2Borqkl7FoAhhWY4piiZPFJs
 - Choosing a risk-free rate: 1) Time horizon, 2) Currency and 3) Not all Govt securites are risk free
 - Risk free rate of a currency should be t.bill rate - default spread to eliminate double counting of risk(risky company in a risky country)
   e.g: India 10 year t.bill rate = 5.97% with a rating of baa3
-       risk free rate = 5.97% - dfs approx. 3.87%
+       risk free rate = 5.97% - Default spread i.e., approx. 3.87%
 - How to calculate default spread rate for a currency?
+  #1 Dollar denominated bond rate - US bond rate will give an approximation of default spread
+  #2 Credit default spread
+  #3 Sovereign rating based spread
