@@ -5,5 +5,10 @@ Completed.
 #4 Risk free rates and Equity risk premiums
 https://www.youtube.com/watch?v=1PNZ1lkyRik&list=PLUkh9m2Borqkl7FoAhhWY4piiZPFJs5_e&index=5
 4.30
-Risk free rates of US, interest rates for t-bonds are historically low. Who keeps interest rates low?
-Negative risk-free rates in some world currencies
+- Risk free rates of US, interest rates for t-bonds are historically low. Who keeps interest rates low?
+- Negative risk-free rates in some world currencies
+- Choosing a risk-free rate: 1) Time horizon, 2) Currency and 3) Not all Govt securites are risk free
+- Risk free rate of a currency should be t.bill rate - default spread to eliminate double counting of risk(risky company in a risky country)
+  e.g: India 10 year t.bill rate = 5.97% with a rating of baa3
+       risk free rate = 5.97% - dfs approx. 3.87%
+- How to calculate default spread rate for a currency?
