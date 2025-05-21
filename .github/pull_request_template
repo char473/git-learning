@@ -16,7 +16,7 @@
 <!-- Describe the feature and its purpose. Link to the related issue if available. -->
 
 ## Checklist
-- Thank you for your contribution to the PM7xxNG code repo. It is a developer's responsibility to ensure:
+- Thank you for your contribution to the PM7xxNG code repo. It is developer's responsibility to ensure:
 - [ ] a self-review of your code is done
 - [ ] code changes are commented properly
 - [ ] code changes are linted using SonarQube
