@@ -3,7 +3,7 @@
 ## Bug description
 <!-- Describe the feature and its purpose. Link to the related issue if available. -->
 
-## Releated issue
+## Releated issues
 
 <!-- Reference the issue this PR addresses (e.g., Closes #123) -->
 
